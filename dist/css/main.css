@@ -237,7 +237,7 @@ main#home h1 {
 }
 .projects img {
   /*width: 100%;*/
-  width: 335px;
+  width: 322px;
   height: 250px;
   border: 3px #fff solid;
 }
@@ -275,6 +275,7 @@ main#home h1 {
 .btn-light {
   display: block;
   padding: 0.5rem 1rem;
+  width: 95%;
   border: 0;
   margin-bottom: 0.3rem;
 }
